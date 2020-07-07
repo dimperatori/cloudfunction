@@ -32,6 +32,9 @@
     <Compile Include="Source\pubsubemu.js">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Tests\cloudfuncionunit.js">
+      <SubType>Code</SubType>
+    </Compile>
     <Content Include="Source\data.json">
       <SubType>Code</SubType>
     </Content>
