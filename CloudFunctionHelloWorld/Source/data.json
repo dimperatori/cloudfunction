@@ -1,0 +1,13 @@
+﻿{"data": {
+		"requestId": null,
+		"identifier": {
+			"userId": null,
+			"userName": "013_20160520",
+			"txId": "XW8K35"
+		},
+		"startDate": "2020-05-28T18:14:54.980Z",
+		"endDate": "2020-05-28T18:14:54.980Z",
+		"failureCodes": [ "013", "071", "042", "089", "090", "4001" ]
+	},
+	"attributes": { "sourceSystem": "OSC" }
+}

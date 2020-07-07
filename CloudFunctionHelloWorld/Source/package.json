@@ -1,0 +1,9 @@
+{
+  "name": "cloud-function-hello-world",
+  "version": "0.0.0",
+  "description": "CloudFunctionHelloWorld",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
